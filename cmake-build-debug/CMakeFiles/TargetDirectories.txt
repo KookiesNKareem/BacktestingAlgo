@@ -1,0 +1,3 @@
+/Users/kareemfareed/CLionProjects/BacktestingAlgo/cmake-build-debug/CMakeFiles/BacktestingAlgo.dir
+/Users/kareemfareed/CLionProjects/BacktestingAlgo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kareemfareed/CLionProjects/BacktestingAlgo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

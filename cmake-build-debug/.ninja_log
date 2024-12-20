@@ -1,0 +1,17 @@
+# ninja log v6
+1	59	1734667290058405621	build.ninja	9bb204859f99dc6c
+7	411	1734666932288455884	CMakeFiles/BacktestingAlgo.dir/data_loader.cpp.o	85ae748ce8b4d4a0
+7	459	1734667253105633997	CMakeFiles/BacktestingAlgo.dir/main.cpp.o	befd7c4a93177b37
+422	508	1734666932703928919	BacktestingAlgo	4535f669697c61e0
+7	422	1734666932288587842	CMakeFiles/BacktestingAlgo.dir/env_parser.cpp.o	d6d7813791007ef3
+3	344	1734667291534795830	CMakeFiles/BacktestingAlgo.dir/backtester.cpp.o	51e46398e1fe30e8
+344	375	1734667291875379831	BacktestingAlgo	2e1fbc6c1ea986e0
+6	442	1734667546190986328	CMakeFiles/BacktestingAlgo.dir/main.cpp.o	befd7c4a93177b37
+7	470	1734667546191399152	CMakeFiles/BacktestingAlgo.dir/backtester.cpp.o	51e46398e1fe30e8
+471	548	1734667546655168238	BacktestingAlgo	2e1fbc6c1ea986e0
+7	344	1734667616522171313	CMakeFiles/BacktestingAlgo.dir/main.cpp.o	befd7c4a93177b37
+345	377	1734667616859668656	BacktestingAlgo	2e1fbc6c1ea986e0
+6	385	1734667662416130229	CMakeFiles/BacktestingAlgo.dir/backtester.cpp.o	51e46398e1fe30e8
+385	414	1734667662795100130	BacktestingAlgo	2e1fbc6c1ea986e0
+5	544	1734668089057377669	CMakeFiles/BacktestingAlgo.dir/data_loader.cpp.o	85ae748ce8b4d4a0
+545	627	1734668089597227199	BacktestingAlgo	2e1fbc6c1ea986e0
