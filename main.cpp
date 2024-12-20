@@ -44,7 +44,7 @@ int main() {
     std::cout << "Choose an LMA length: ";
     std::cin >> lma_length;
 
-    std::string outputFile = "/Users/kareemfareed/CLionProjects/BacktestingAlgo/stocks/" + symbol + ".csv";
+    std::string outputFile = "stocks/" + symbol + ".csv";
 
     // Check if the file exists and is up-to-date
     if (isFileUpToDate(outputFile)) {
@@ -53,7 +53,7 @@ int main() {
         std::cout << "Fetching market data for " << symbol << "..." << std::endl;
         fetchMarketData(symbol, outputFile);
     }
-    std::string filePath = "/Users/kareemfareed/CLionProjects/BacktestingAlgo/stocks/" + symbol + ".csv";
+    std::string filePath = "stocks/" + symbol + ".csv";
     Backtester backtester(filePath, initialCapital);
     backtester.run(sma_length, lma_length);
     backtester.printReport();
